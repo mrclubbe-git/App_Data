@@ -129,3 +129,4 @@ Timestamp,Message
 2025-09-29 22:40:47,"Added new item Site Test item 2: qty=20, UOM=Each, MinQty=5 in SITE"
 2025-09-29 22:55:46,"Added new item Site Test item 2: qty=20, UOM=Each, MinQty=5 in SITE"
 2025-09-29 23:07:13,"Book out: [('HQ Test item 1', 8)], Released by Charl, Collected by Le-Anne"
+2025-09-29 23:58:27,Adjusted HQ Test item 1 by 1
