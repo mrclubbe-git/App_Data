@@ -124,3 +124,4 @@ Timestamp,Message
 2025-09-29 21:19:34,"Book out: [('Site Test Item 1', 1)], Released by Charl, Collected by Le-Anne"
 2025-09-29 21:44:31,"Book out: [('Site Test Item 1', 1)], Released by Charl, Collected by Le-Anne"
 2025-09-29 21:45:17,"Book out: [('HQ Test item 2', 1)], Released by Charl, Collected by Le-Anne"
+2025-09-29 22:16:02,"Added new item SIte Test item 2: qty 20, UOM=Each, MinQty=5 in SELECT STOCK TARGET"
