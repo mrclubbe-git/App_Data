@@ -118,3 +118,4 @@ Timestamp,Message
 2025-09-29 13:43:32,Android User admin logged in.
 2025-09-29 13:46:36,Android User admin logged in.
 2025-09-29 14:29:47,"Book Out by Marnu, released by Charl: [{'item': 'HQ Test item 2', 'quantity': 10}, {'item': 'HQ Test item 3', 'quantity': 10}, {'item': 'HQ Test item 8', 'quantity': 10}]"
+2025-09-29 18:38:12,"Book out: [('HQ Test item 2', 10)], Released by Charl, Collected by Le-Anne"
