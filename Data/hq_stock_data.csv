@@ -1,5 +1,5 @@
 Name,UOM,Quantity,Min Quantity
-HQ Test item 1,Each,20,10
+HQ Test item 1,Each,9,10
 HQ Test item 2,Each,45,5
 HQ Test item 3,Each,40,3
 HQ Test item 4,Meter,15,2
@@ -10,3 +10,4 @@ HQ Test item 8,Meter,60,5
 HQ Test item 9,Each,20,2
 HQ Test item 10,Each,60,3
 Cirrus CCD 1 pipe c/w IP Enclosure ,Each,2,1
+
