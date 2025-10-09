@@ -1,13 +1,12 @@
-Name,UOM,Quantity,Min Quantity
-HQ Test item 1,Each,9,10
-HQ Test item 2,Each,45,5
-HQ Test item 3,Each,40,3
-HQ Test item 4,Meter,15,2
-HQ Test item 5,Sum,10,5
-HQ Test item 6,Each,20,3
-HQ Test item 7,Each,60,2
-HQ Test item 8,Meter,60,5
-HQ Test item 9,Each,20,2
-HQ Test item 10,Each,60,3
-Cirrus CCD 1 pipe c/w IP Enclosure ,Each,2,1
-
+Item Description,Open Qty,UOM,Min
+HQ Test item 1,9,Each,10
+HQ Test item 2,45,Each,5
+HQ Test item 3,40,Each,3
+HQ Test item 4,15,Meter,2
+HQ Test item 5,10,Sum,5
+HQ Test item 6,20,Each,3
+HQ Test item 7,60,Each,2
+HQ Test item 8,60,Meter,5
+HQ Test item 9,19,Each,2
+HQ Test item 10,60,Each,3
+Cirrus CCD 1 pipe c/w IP Enclosure,1,Each,1
