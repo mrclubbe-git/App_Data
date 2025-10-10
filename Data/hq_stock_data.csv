@@ -1,12 +1,2 @@
-Item Description,Open Qty,UOM,Min
-HQ Test item 1,9,Each,10
-HQ Test item 2,45,Each,5
-HQ Test item 3,40,Each,3
-HQ Test item 4,15,Meter,2
-HQ Test item 5,10,Sum,5
-HQ Test item 6,20,Each,3
-HQ Test item 7,60,Each,2
-HQ Test item 8,60,Meter,5
-HQ Test item 9,19,Each,2
-HQ Test item 10,60,Each,3
-Cirrus CCD 1 pipe c/w IP Enclosure,1,Each,1
+Name,UOM,Quantity,Min Quantity
+Android Test,Each,10,1
