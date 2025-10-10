@@ -1,4 +1,5 @@
-name,quantity,uom,min_quantity
+Name,UOM,Quantity,Min Quantity
 Desktop Test 2,10,10,1
-android test,20,each,1
-New Desktop Test,30,Each,1
+android test,each,20,1
+New Desktop Test,Each,30,1
+android test 2,each,20,1
