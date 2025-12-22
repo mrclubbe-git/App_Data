@@ -19,3 +19,4 @@ Timestamp,Message
 2025-12-22 10:32:03,"Added new item Android Test 2: qty=20, UOM=Meter, MinQty=2 in HQ"
 2025-12-22 10:33:31,"Book out: [('Android Test 1', 5), ('Android Test 2', 7)], Released by Charl, Collected by Le-anne"
 2025-12-22 10:34:12,Adjusted Android Test 1: 5 → 20
+2025-12-22 10:34:14,Adjusted Android Test 2: 13 → 25
