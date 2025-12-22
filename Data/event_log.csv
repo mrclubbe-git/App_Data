@@ -17,3 +17,4 @@ Timestamp,Message
 2025-12-22 10:29:27,Removed item: New Desktop Test
 2025-12-22 10:30:10,"Added new item Android Test 1 : qty=10, UOM=Each, MinQty=5 in HQ"
 2025-12-22 10:32:03,"Added new item Android Test 2: qty=20, UOM=Meter, MinQty=2 in HQ"
+2025-12-22 10:33:31,"Book out: [('Android Test 1', 5), ('Android Test 2', 7)], Released by Charl, Collected by Le-anne"
